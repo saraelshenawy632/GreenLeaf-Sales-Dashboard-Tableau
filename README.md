@@ -7,6 +7,11 @@ The GreenLeaf Sales Dashboard is an interactive Tableau dashboard designed to an
 Live Dashboard:
 View Dashboard on Tableau Public
 
+📊 **Live Demo:**  
+https://public.tableau.com/app/profile/sara.elshenawy/viz/updated3_17725696685760/greenleefdashboard?publish=yes
+
+Interactive Tableau dashboard for analyzing sales performance across products, categories, territories, and time periods.
+
 🎯 Objectives
 Monitor overall sales performance.
 Analyze revenue and order trends over time.
